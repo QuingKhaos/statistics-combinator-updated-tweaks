@@ -4,3 +4,5 @@ Date: ????
   Changes:
     - [item=production-combinator] Changed subgroup to circuit-input if SchallCircuitGroup mod is present.
     - [item=consumption-combinator] Changed subgroup to circuit-input if SchallCircuitGroup mod is present.
+    - Moved production and consumption combinator recipes to advanced circuit network technology.
+    - Removed custom technology for production and consumption combinators.
